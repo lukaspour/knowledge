@@ -1,8 +1,8 @@
-# [My Knowledge Wiki 📚](https://wiki.nikitavoloboev.xyz)
+# Introduction afassaddsadasd
 
-This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz) hosted on [GitHub](https://github.com/nikitavoloboev/knowledge).
+asdThis is my personal wiki where I share [everything I know](sharing/everything-i-know.md) about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz) hosted on [GitHub](https://github.com/nikitavoloboev/knowledge).
 
-If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
+If this is your first time visiting this wiki, take a look [here](meta/) as it describes this wiki, its structure and goals in a lot of detail.
 
 ## Using the wiki well
 
@@ -18,7 +18,7 @@ I share my knowledge in longer form by [writing articles](sharing/my-articles.md
 
 I also love [writing code](sharing/my-github.md) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev).
 
-[Here](sharing/sharing.md) you can find all the things I made and shared thus far.
+[Here](sharing/) you can find all the things I made and shared thus far.
 
 ## Make your own wiki
 
@@ -37,3 +37,4 @@ I also appreciate any [ideas you have](https://github.com/nikitavoloboev/knowled
 You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/nikitavoloboev)
+
